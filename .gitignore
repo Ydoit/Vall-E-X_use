@@ -1,0 +1,6 @@
+./checkpoints/*.pt
+./vocos-encodec-24khz/*
+vocos-encodec-24khz/pytorch_model.bin
+whisper/medium.pt
+vocos-encodec-24khz/config.yaml
+checkpoints/vallex-checkpoint.pt
